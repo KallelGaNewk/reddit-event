@@ -1,0 +1,40 @@
+{
+  "_from": "reddit-event",
+  "_id": "reddit-event@1.0.10",
+  "_inBundle": false,
+  "_integrity": "sha512-41OJNCQHCGPGG6QlI1xcS1BYn0FXBUYY/iEOUySuIz6VeOvvoZ9+BacGIsDJ1lLk3wxSSRlWrjUSq0chuG4RTw==",
+  "_location": "/reddit-event",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "reddit-event",
+    "name": "reddit-event",
+    "escapedName": "reddit-event",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/reddit-event/-/reddit-event-1.0.10.tgz",
+  "_shasum": "18c0269bb6458c34a8c9ce38f10535f9e45a24d1",
+  "_spec": "reddit-event",
+  "_where": "C:\\Users\\ianka",
+  "author": {
+    "name": "kallelganewk"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.21.0",
+    "ws": "^7.4.1"
+  },
+  "deprecated": false,
+  "description": "Get new posts with a event",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "reddit-event",
+  "version": "1.0.10"
+}
